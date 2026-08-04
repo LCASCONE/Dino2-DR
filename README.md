@@ -12,7 +12,7 @@
 ---
 
 ## News
-**2025.07** Our paper "Dino2-DR: A Trustworthy and Explainable Vision Transformer for Cross-Domain Diabetic Retinopathy Grading" was early accepted to ICCV 2025—BISCUIT Workshop
+**2025.07** Our paper [“Dino2-DR: A Trustworthy and Explainable Vision Transformer for Cross-Domain Diabetic Retinopathy Grading”](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11375826), accepted to the ICCV 2025 BISCUIT Workshop.
 
 ---
 ## 🎯 The Challenge: Domain Shift in Medical Imaging
